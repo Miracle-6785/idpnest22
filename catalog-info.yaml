@@ -4,18 +4,14 @@ metadata:
   name: "idpnest22"
   description: "A component that is part of the DevSecOps catalog"
   annotations:
-    
     jenkins.io/job-full-name: idpnest22-org/idpnest22-job
-    
-
-    
+    "datadoghq.com/dashboard-url": "https://p.ap1.datadoghq.com/sb/8d681aca-0881-11f0-bf95-f237726dd4d7-f25d80da55b5999a5857493672dcd582"
+    "datadoghq.com/site": "ap1.datadoghq.com"
+    "datadoghq.com/graph-token": "81ffbf6a6fcdfc539444c32a7cc0baba5b3caa4cb56a778374233d70589745bc"
     sonarqube.org/project-key: default/idpnest22
-    
-
     dependencytrack/project-id: "dfd67d61-0917-4795-a48a-7859d4de39a1"
     iap/app-info: "1/9c687002-cb8f-4974-9f68-47bb36779da8"
     backstage.io/techdocs-ref: dir:.
-
 spec:
   type: service
   owner: user:guest
